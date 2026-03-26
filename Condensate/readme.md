@@ -4,3 +4,4 @@ including:
 - 1D/2D intrachain client contact profile
 - 1D interchain client-condensate contact profile
 - Condensate density profile
+- end-to-end distance ACF and correlation time
