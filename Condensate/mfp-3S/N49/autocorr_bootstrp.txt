@@ -1,0 +1,1500 @@
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.937524e+00   1.619762e+00   8.098808e-03      -0.071   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -8855.42090 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9762e+04 3.9762e+04  3.9762e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.916013e+00   1.620949e+00   8.104744e-03      -0.070   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -25550.90820 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9374e+04 3.9374e+04  3.9374e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.913085e+00   1.625551e+00   8.127755e-03      -0.071   -0.071
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -9024.75977 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9810e+04 3.9810e+04  3.9810e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918672e+00   1.626672e+00   8.133362e-03      -0.065   -0.067
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -9521.88770 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.7908e+04 3.7908e+04  3.7908e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914128e+00   1.626506e+00   8.132530e-03      -0.072   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -17526.67578 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9686e+04 3.9686e+04  3.9686e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.921425e+00   1.612923e+00   8.064617e-03      -0.072   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -15547.90918 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8786e+04 3.8786e+04  3.8786e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.889816e+00   1.625018e+00   8.125087e-03      -0.070   -0.062
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -22076.94922 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8098e+04 3.8098e+04  3.8098e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905143e+00   1.614657e+00   8.073286e-03      -0.057   -0.069
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -20118.75781 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.7552e+04 3.7552e+04  3.7552e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.910196e+00   1.621430e+00   8.107149e-03      -0.072   -0.063
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -12732.45605 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9518e+04 3.9518e+04  3.9518e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.909343e+00   1.619962e+00   8.099807e-03      -0.069   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -22238.54492 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8248e+04 3.8248e+04  3.8248e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905330e+00   1.621231e+00   8.106154e-03      -0.077   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -16124.90234 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9801e+04 3.9801e+04  3.9801e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915545e+00   1.624642e+00   8.123210e-03      -0.077   -0.056
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -16700.61523 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8961e+04 3.8961e+04  3.8961e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.900998e+00   1.623070e+00   8.115349e-03      -0.074   -0.054
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -22135.86133 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9059e+04 3.9059e+04  3.9059e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914597e+00   1.619042e+00   8.095210e-03      -0.072   -0.054
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -10882.95508 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0335e+04 4.0335e+04  4.0335e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.913228e+00   1.625124e+00   8.125622e-03      -0.069   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -22427.25195 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.2711e+04 4.2711e+04  4.2711e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.897286e+00   1.620705e+00   8.103526e-03      -0.068   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -28811.18555 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9750e+04 3.9750e+04  3.9750e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915504e+00   1.617324e+00   8.086618e-03      -0.061   -0.067
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -13978.44531 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9616e+04 3.9616e+04  3.9616e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907432e+00   1.618963e+00   8.094815e-03      -0.073   -0.062
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -20766.25781 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0528e+04 4.0528e+04  4.0528e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.921461e+00   1.618977e+00   8.094884e-03      -0.067   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -20203.01758 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9832e+04 3.9832e+04  3.9832e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.916542e+00   1.617002e+00   8.085012e-03      -0.081   -0.068
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25518.21094 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0238e+04 4.0238e+04  4.0238e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.895219e+00   1.620233e+00   8.101164e-03      -0.075   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -14894.45410 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0117e+04 4.0117e+04  4.0117e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918601e+00   1.614392e+00   8.071962e-03      -0.079   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -27234.33594 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9851e+04 3.9851e+04  3.9851e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.903260e+00   1.612350e+00   8.061748e-03      -0.078   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -23774.04492 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8815e+04 3.8815e+04  3.8815e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.902272e+00   1.616996e+00   8.084978e-03      -0.062   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -28223.02930 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9319e+04 3.9319e+04  3.9319e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907978e+00   1.628045e+00   8.140224e-03      -0.076   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25455.29883 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9813e+04 3.9813e+04  3.9813e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918165e+00   1.617159e+00   8.085793e-03      -0.061   -0.073
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -22545.39453 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9056e+04 3.9056e+04  3.9056e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912872e+00   1.616400e+00   8.081999e-03      -0.061   -0.068
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -13429.69043 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9411e+04 3.9411e+04  3.9411e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.906370e+00   1.608625e+00   8.043126e-03      -0.069   -0.073
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -17105.60352 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9573e+04 3.9573e+04  3.9573e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.903008e+00   1.617281e+00   8.086405e-03      -0.065   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -23917.55469 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9407e+04 3.9407e+04  3.9407e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.910020e+00   1.625641e+00   8.128206e-03      -0.073   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -23741.04297 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8886e+04 3.8886e+04  3.8886e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914327e+00   1.608311e+00   8.041557e-03      -0.082   -0.056
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -20888.11914 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9242e+04 3.9242e+04  3.9242e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.920660e+00   1.611973e+00   8.059867e-03      -0.082   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -23182.14453 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8417e+04 3.8417e+04  3.8417e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.904476e+00   1.619805e+00   8.099024e-03      -0.070   -0.069
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -15430.90918 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0221e+04 4.0221e+04  4.0221e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.908677e+00   1.617584e+00   8.087922e-03      -0.069   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -14751.12598 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8726e+04 3.8726e+04  3.8726e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.896371e+00   1.620036e+00   8.100179e-03      -0.072   -0.069
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -18877.98828 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8373e+04 3.8373e+04  3.8373e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907425e+00   1.618182e+00   8.090909e-03      -0.074   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -18338.04102 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9762e+04 3.9762e+04  3.9762e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.904606e+00   1.612821e+00   8.064105e-03      -0.055   -0.069
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -13463.60840 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8872e+04 3.8872e+04  3.8872e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.896296e+00   1.623926e+00   8.119628e-03      -0.080   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -25691.29688 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0663e+04 4.0663e+04  4.0663e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.911150e+00   1.617155e+00   8.085774e-03      -0.056   -0.056
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -20701.28906 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9561e+04 3.9561e+04  3.9561e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901755e+00   1.614086e+00   8.070430e-03      -0.069   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -23578.35156 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8078e+04 3.8078e+04  3.8078e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.897992e+00   1.611557e+00   8.057783e-03      -0.073   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -14323.64648 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.7422e+04 3.7422e+04  3.7422e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.909903e+00   1.612676e+00   8.063379e-03      -0.067   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -12112.07520 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9041e+04 3.9041e+04  3.9041e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.917423e+00   1.622641e+00   8.113206e-03      -0.070   -0.077
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -19507.25391 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0992e+04 4.0992e+04  4.0992e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907134e+00   1.620944e+00   8.104721e-03      -0.060   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -16063.08398 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0951e+04 4.0951e+04  4.0951e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912295e+00   1.616996e+00   8.084981e-03      -0.059   -0.071
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -9149.34570 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9876e+04 3.9876e+04  3.9876e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.911414e+00   1.612784e+00   8.063918e-03      -0.074   -0.059
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25820.35742 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8595e+04 3.8595e+04  3.8595e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901847e+00   1.624796e+00   8.123979e-03      -0.059   -0.057
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -21205.79297 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0351e+04 4.0351e+04  4.0351e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905846e+00   1.621812e+00   8.109062e-03      -0.067   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25051.83789 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0594e+04 4.0594e+04  4.0594e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901430e+00   1.621028e+00   8.105142e-03      -0.078   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -16302.08105 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9424e+04 3.9424e+04  3.9424e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915236e+00   1.623788e+00   8.118940e-03      -0.075   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -25080.69922 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9767e+04 3.9767e+04  3.9767e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918489e+00   1.622548e+00   8.112742e-03      -0.071   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -18004.59961 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9120e+04 3.9120e+04  3.9120e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.894357e+00   1.618359e+00   8.091796e-03      -0.076   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -22335.21484 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8228e+04 3.8228e+04  3.8228e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914228e+00   1.619804e+00   8.099019e-03      -0.070   -0.067
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -22018.17188 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.1369e+04 4.1369e+04  4.1369e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912194e+00   1.610580e+00   8.052898e-03      -0.074   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -14985.94727 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9408e+04 3.9408e+04  3.9408e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912584e+00   1.618359e+00   8.091797e-03      -0.083   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -21017.26172 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9194e+04 3.9194e+04  3.9194e+04
+Read 1 sets of 40001 points, dt = 499.938
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.927463e+00   1.616175e+00   8.080877e-03      -0.070   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999250.000 ps) = -18355.15234 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8745e+04 3.8745e+04  3.8745e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.910680e+00   1.620689e+00   8.103446e-03      -0.069   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -15436.13086 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9209e+04 3.9209e+04  3.9209e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.909207e+00   1.614785e+00   8.073925e-03      -0.066   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -17281.40430 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9167e+04 3.9167e+04  3.9167e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.919324e+00   1.612507e+00   8.062538e-03      -0.074   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -32310.38477 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8355e+04 3.8355e+04  3.8355e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912382e+00   1.621557e+00   8.107784e-03      -0.083   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -15365.19238 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9292e+04 3.9292e+04  3.9292e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901999e+00   1.624943e+00   8.124713e-03      -0.055   -0.077
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -16506.97461 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0652e+04 4.0652e+04  4.0652e+04
+Read 1 sets of 40001 points, dt = 499.95
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901854e+00   1.625213e+00   8.126063e-03      -0.067   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999500.000 ps) = -23834.80078 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.7967e+04 3.7967e+04  3.7967e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901545e+00   1.613401e+00   8.067003e-03      -0.062   -0.063
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -20174.68945 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8309e+04 3.8309e+04  3.8309e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914793e+00   1.623740e+00   8.118701e-03      -0.064   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -20137.49609 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0003e+04 4.0003e+04  4.0003e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914455e+00   1.615940e+00   8.079701e-03      -0.069   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -20880.52148 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9920e+04 3.9920e+04  3.9920e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907967e+00   1.618784e+00   8.093920e-03      -0.061   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -9960.14453 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0810e+04 4.0810e+04  4.0810e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.909836e+00   1.616251e+00   8.081257e-03      -0.084   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -26864.37305 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9165e+04 3.9165e+04  3.9165e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914520e+00   1.614971e+00   8.074857e-03      -0.080   -0.059
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -22255.33398 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8739e+04 3.8739e+04  3.8739e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907971e+00   1.617478e+00   8.087388e-03      -0.064   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -23984.73047 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9103e+04 3.9103e+04  3.9103e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.906002e+00   1.617799e+00   8.088997e-03      -0.061   -0.068
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -13429.16797 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9297e+04 3.9297e+04  3.9297e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.906902e+00   1.615408e+00   8.077040e-03      -0.067   -0.067
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -17454.84766 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9805e+04 3.9805e+04  3.9805e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.892605e+00   1.627661e+00   8.138305e-03      -0.066   -0.067
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -13285.39648 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9354e+04 3.9354e+04  3.9354e+04
+Read 1 sets of 40001 points, dt = 499.95
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915524e+00   1.618697e+00   8.093484e-03      -0.080   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999500.000 ps) = -13170.36328 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0831e+04 4.0831e+04  4.0831e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901661e+00   1.626369e+00   8.131847e-03      -0.071   -0.070
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -21008.37500 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.1753e+04 4.1753e+04  4.1753e+04
+Read 1 sets of 40001 points, dt = 499.938
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.895675e+00   1.622040e+00   8.110198e-03      -0.067   -0.059
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999250.000 ps) = -20644.39258 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8314e+04 3.8314e+04  3.8314e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.907965e+00   1.623231e+00   8.116154e-03      -0.059   -0.064
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -15301.99512 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0064e+04 4.0064e+04  4.0064e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.902233e+00   1.627992e+00   8.139960e-03      -0.078   -0.072
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25420.01758 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0077e+04 4.0077e+04  4.0077e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915213e+00   1.614448e+00   8.072239e-03      -0.061   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -24947.75195 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8785e+04 3.8785e+04  3.8785e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.915033e+00   1.622596e+00   8.112981e-03      -0.074   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -22167.91406 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.1101e+04 4.1101e+04  4.1101e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.908018e+00   1.613368e+00   8.066841e-03      -0.084   -0.055
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -16293.98145 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9595e+04 3.9595e+04  3.9595e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.906095e+00   1.620904e+00   8.104519e-03      -0.068   -0.072
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -16581.16016 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0187e+04 4.0187e+04  4.0187e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.913105e+00   1.622852e+00   8.114261e-03      -0.064   -0.060
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -18978.32031 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9349e+04 3.9349e+04  3.9349e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.924563e+00   1.622104e+00   8.110519e-03      -0.067   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -12550.81348 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.1228e+04 4.1228e+04  4.1228e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912618e+00   1.631708e+00   8.158542e-03      -0.060   -0.069
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -13435.95605 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0431e+04 4.0431e+04  4.0431e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.899876e+00   1.622605e+00   8.113023e-03      -0.062   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -25086.75977 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9649e+04 3.9649e+04  3.9649e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.912390e+00   1.617108e+00   8.085539e-03      -0.073   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -24718.86523 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9668e+04 3.9668e+04  3.9668e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918497e+00   1.618213e+00   8.091067e-03      -0.075   -0.056
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -15518.81055 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9169e+04 3.9169e+04  3.9169e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.902972e+00   1.614797e+00   8.073987e-03      -0.072   -0.062
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -20124.24414 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8243e+04 3.8243e+04  3.8243e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.911559e+00   1.626012e+00   8.130061e-03      -0.055   -0.073
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -24851.81055 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.1239e+04 4.1239e+04  4.1239e+04
+Read 1 sets of 40001 points, dt = 499.962
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.908466e+00   1.624063e+00   8.120314e-03      -0.073   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999750.000 ps) = -29502.82227 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999750.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0028e+04 4.0028e+04  4.0028e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.918718e+00   1.614064e+00   8.070320e-03      -0.059   -0.062
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -18719.11914 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8714e+04 3.8714e+04  3.8714e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905657e+00   1.609026e+00   8.045132e-03      -0.077   -0.065
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -15676.54785 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9418e+04 3.9418e+04  3.9418e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914861e+00   1.611107e+00   8.055536e-03      -0.073   -0.061
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -19890.10156 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8798e+04 3.8798e+04  3.8798e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905079e+00   1.609370e+00   8.046852e-03      -0.068   -0.057
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -27598.48047 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0171e+04 4.0171e+04  4.0171e+04
+Read 1 sets of 40001 points, dt = 499.938
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.905992e+00   1.627659e+00   8.138296e-03      -0.072   -0.059
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 9999250.000 ps) = -16875.17969 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 9999250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9248e+04 3.9248e+04  3.9248e+04
+Read 1 sets of 40001 points, dt = 499.975
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.914487e+00   1.616841e+00   8.084205e-03      -0.069   -0.059
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000000.000 ps) = -23756.11914 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000000.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.8262e+04 3.8262e+04  3.8262e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.917884e+00   1.607023e+00   8.035113e-03      -0.070   -0.066
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -16105.30664 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9763e+04 3.9763e+04  3.9763e+04
+Read 1 sets of 40001 points, dt = 499.987
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.910273e+00   1.616316e+00   8.081581e-03      -0.086   -0.062
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000250.000 ps) = -24733.98047 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000250.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9601e+04 3.9601e+04  3.9601e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.901811e+00   1.632015e+00   8.160073e-03      -0.069   -0.063
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -20967.38281 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 4.0500e+04 4.0500e+04  4.0500e+04
+Read 1 sets of 40001 points, dt = 500
+
+                                      std. dev.    relative deviation of
+                       standard       ---------   cumulants from those of
+set      average       deviation      sqrt(n-1)   a Gaussian distribition
+                                                      cum. 3   cum. 4
+SS1   4.904708e+00   1.625912e+00   8.129560e-03      -0.082   -0.058
+
+COR:
+COR: Correlation time (plain integral from  0.000 to 10000500.000 ps) = -24528.29102 ps
+COR: Relaxation times are computed as fit to an exponential:
+COR:   y = exp(-x/|a0|)
+COR: Fit to correlation function from  0.000 ps to 10000500.000 ps, results in a
+COR:   Fit from   Integral Tail Value   Sum (ps)    a1 (ps)                      
+COR: 0.0000e+00 0.0000e+00 3.9558e+04 3.9558e+04  3.9558e+04
