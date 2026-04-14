@@ -3,4 +3,4 @@ Supporting scripts and data for **"Condensates as Conformation Editors of Client
 
 - Force ﬁeld ﬁles for Martini3-IDP model with refined sidechain parameters in this paper are available at: https://github.com/WangLiguo-kyrie/Martini3-IDP_sc.
 - Related analysis raw data in this paper are available at: https://github.com/WangLiguo-kyrie/Client-conformation.
-- Structure data for most simulations and analysis raw data presented in this work are available at Zenodo
+- Structure data for most simulations and analysis raw data presented in this work are available at Zenodo: https://doi.org/10.5281/zenodo.19567931
